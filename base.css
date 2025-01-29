@@ -1,5 +1,7 @@
 html, body {
     margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 body {
     background-color: #f1f1f1;
@@ -11,7 +13,7 @@ body {
     width: 1200px;
     display: flex;
     margin: 0 auto;
-    background-color: aquamarine;
+    
 }
 .main {
     display: flex;
@@ -19,20 +21,33 @@ body {
     width: 85%;
 }
 .menu {
-    width: 15%;
-    background-color: aqua;
-    padding: 10px 20px 0px;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
 }
+.menu-bg {
+    width: 15%;
+    background-color: #7ca4e0;
+}
+
+.text-color {
+    color: azure;
+}
+
 .header {
-    background-color: rgb(5, 108, 108);
+    background-color: #88d5eb85;
     min-height: 150px;
+    text-align: center;
 }
 .content {
     background-color: white;
-    min-height: 300px;
+    min-height: 350px;
     padding: 20px;
+    text-align: justify;
 }
+
+
 .footer {
-    background-color: rgb(99, 56, 240);
-    min-height: 150px;
+    background-color: #7bd8f162;
+    min-height: 100px;
 }
