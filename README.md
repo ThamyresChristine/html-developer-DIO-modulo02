@@ -72,3 +72,12 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
 
 Bora pra cima!
+
+
+### Links das imagens
+
+Logo: https://iconos8.es/icon/HHu7FSAi32hJ/sistema-nervioso
+Página Inicial: https://unsplash.com/pt-br/fotografias/pena-de-pavao-azul-e-verde-58Z17lnVS4U
+Sobre a Clínica: https://unsplash.com/pt-br/fotografias/homem-na-camisa-social-branca-vestindo-oculos-brancos-KrsoedfRAf4
+Horário de Atendimento: https://unsplash.com/pt-br/fotografias/white-printer-paperr-FoKO4DpXamQ
+
